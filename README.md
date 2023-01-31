@@ -9,14 +9,19 @@ The official [Cosmos Menu](https://cosmos-menu-15cf62f9744e4a7cce5bcfb140.webflo
 We encourage any project, live or soon upcoming, to register their project to the Menu so others can learn more about the ecosystem and about your project. Basic metadata, like a name, description, website, social following and/or contact data, and appropriate keywords should suffice for registration. See the project schema and example below for guidance on registration.
 
 Key Categories:
- - Appchain: Any Cosmos SDK-based blockchain. Should not include chains merely originating with Cosmos SDK that have since deviated from any official version of the Cosmos SDK.
+ - dApp: Any Decentralized Application
+ - DeFi
+ - NFTs
+ - DWeb
+ - Gaming
+ - Social
+ - Liquid Staking
+ - General VM
+ - Appchain: Any application-specific chain
  - Wallet: Wallet apps and browser extensions.
  - Analytics: Analytics Displays.
  - Explorers: Interfaces allowing users to search for any transaction, block, or address of an appchain.
  - Bridge: Applications that interconnect blockchains by allowing users to send tokens form one chain to another.
- - Community: Community-run projects, suchs as a Support Chat site.
- - Trading Frontend: Any interface (e.g., Desktop App, Mobile App, or Website) where users can connect a wallet, view prices, execute swap transactions or trade orders.
- - dApp: Any Decentralized Application.
  - Dev Tools: APIs and other tools for developers.
 
 ### Example Registration
@@ -27,37 +32,27 @@ Foochain:
   {
     "name": "osmosis",
     "pretty_name": "Osmosis Zone",
+    "status": "live",
     "short_description": "The largest DEX in the Cosmos Ecosystem",
     "website": "osmosis.zone",
-    "related_links": [
-      "app.osmosis.zone",
-      "docs.osmosis.zone",
-      "support.osmosis.zone",
-      "frontier.osmosis.zone",
-      "testnet.osmosis.zone"
-    ],
     "socials": {
       "twitter": "@osmosiszone",
-      "medium": "medium.com/osmosis",
-      "blog": "osmosis.zone/blog",
-      "telegram": "https://t.me/osmosis_chat"
     },
     "categories": [
       "trading_frontend",
       "dApp",
       "appchain"
     ],
-    "tags" [
+    "token_info": {
+      "coingecko": "coingecko_id"
+      "osmosis": "https://link_to_osmosis_token_page",
+    },
+    "tags": [
       "dex"
     ],
-    "long_description": "Osmosis Zone is a ...",
-    "team_members": [
-      {
-        "sunny97" // could direct to a 'person profile', with maybe their role, bio, or socials, etc.?
-      },
-      {
-        "another person"
-      }
+    "chains": [
+      "osmosis",
+      "juno"
     ]
   }
 ]
