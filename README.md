@@ -51,8 +51,7 @@ Foochain:
       "dex"
     ],
     "chains": [
-      "osmosis",
-      "juno"
+      "osmosis"
     ]
   }
 ]
