@@ -3,7 +3,7 @@
     "name": "osmosis",
     "pretty_name": "Osmosis DEX",
     "status": "live",
-    "short_description": "The largest DEX in the Cosmos Ecosystem",
+    "description": "The largest DEX in the Cosmos Ecosystem",
     "website": "http://app.osmosis.zone",
     "socials": {
       "twitter": "@osmosiszone",
@@ -29,7 +29,7 @@
     "name": "ion",
     "pretty_name": "ION DAO",
     "status": "live",
-    "short_description": "The largest DEX in the Cosmos Ecosystem",
+    "description": "The largest DEX in the Cosmos Ecosystem",
     "website": "https://ion.wtf",
     "socials": {
       "twitter": "@_IONDAO",
@@ -54,7 +54,7 @@
     "name": "axelar",
     "pretty_name": "Axelar Bridge",
     "status": "live",
-    "short_description": "Axelar delivers secure cross-chain communication for Web3",
+    "description": "Axelar delivers secure cross-chain communication for Web3",
     "website": "https://axelar.network/",
     "socials": {
       "twitter": "@axelarcore",
@@ -108,7 +108,7 @@
     "name": "mintscan",
     "pretty_name": "Mintscan",
     "status": "live",
-    "short_description": "Interchain Explorer powered by Cosmostation",
+    "description": "Interchain Explorer powered by Cosmostation",
     "website": "https://www.mintscan.io",
     "socials": {
       "twitter": "@mintscanio",
@@ -179,7 +179,7 @@
     "name": "keplr",
     "pretty_name": "Keplr Wallet",
     "status": "live",
-    "short_description": "Wallet for the Interchain",
+    "description": "Wallet for the Interchain",
     "website": "https://www.keplr.app/",
     "socials": {
       "twitter": "@keplrwallet",
