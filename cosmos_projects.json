@@ -4,6 +4,7 @@
     "pretty_name": "Osmosis DEX",
     "status": "live",
     "description": "The largest DEX in the Cosmos Ecosystem",
+    "git_repo": "https://github.com/osmosis-labs/osmosis",
     "website": "http://app.osmosis.zone",
     "socials": {
       "twitter": "@osmosiszone",
@@ -30,6 +31,7 @@
     "pretty_name": "ION DAO",
     "status": "live",
     "description": "The largest DEX in the Cosmos Ecosystem",
+    "git_repo": "https://github.com/many-things/ion-dao-contracts",
     "website": "https://ion.wtf",
     "socials": {
       "twitter": "@_IONDAO",
@@ -55,6 +57,7 @@
     "pretty_name": "Axelar Bridge",
     "status": "live",
     "description": "Axelar delivers secure cross-chain communication for Web3",
+    "git_repo": "https://github.com/axelarnetwork/axelar-core",
     "website": "https://axelar.network/",
     "socials": {
       "twitter": "@axelarcore",
@@ -180,6 +183,7 @@
     "pretty_name": "Keplr Wallet",
     "status": "live",
     "description": "Wallet for the Interchain",
+    "git_repo": "https://github.com/chainapsis/keplr-wallet",
     "website": "https://www.keplr.app/",
     "socials": {
       "twitter": "@keplrwallet",
