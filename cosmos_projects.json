@@ -1,0 +1,224 @@
+"projects": [
+  {
+    "name": "osmosis",
+    "pretty_name": "Osmosis DEX",
+    "status": "live",
+    "short_description": "The largest DEX in the Cosmos Ecosystem",
+    "website": "http://app.osmosis.zone",
+    "socials": {
+      "twitter": "@osmosiszone",
+    },
+    "categories": [
+      "Appchain",
+      "dApp",
+      "DeFi"
+    ],
+    "token_info": {
+      "coingecko": "osmosis"
+      "osmosis": "https://www.coingecko.com/en/coins/osmosis",
+    },
+    "tags": [
+      "dex",
+      "zone"
+    ],
+    "chains": [
+      "osmosis"
+    ]
+  },
+  {
+    "name": "ion",
+    "pretty_name": "ION DAO",
+    "status": "live",
+    "short_description": "The largest DEX in the Cosmos Ecosystem",
+    "website": "https://ion.wtf",
+    "socials": {
+      "twitter": "@_IONDAO",
+    },
+    "categories": [
+      "dApp",
+      "DeFi"
+    ],
+    "token_info": {
+      "coingecko": "ion"
+      "osmosis": "https://www.coingecko.com/en/coins/ion",
+    },
+    "tags": [
+      "wtf",
+      "synthetics"
+    ],
+    "chains": [
+      "osmosis"
+    ]
+  },
+  {
+    "name": "axelar",
+    "pretty_name": "Axelar Bridge",
+    "status": "live",
+    "short_description": "Axelar delivers secure cross-chain communication for Web3",
+    "website": "https://axelar.network/",
+    "socials": {
+      "twitter": "@axelarcore",
+    },
+    "categories": [
+      "Appchain",
+      "Bridge"
+    ],
+    "token_info": {
+      "coingecko": "axelar"
+      "osmosis": "https://www.coingecko.com/en/coins/axelar",
+    },
+    "tags": [
+      "core",
+      "satellite",
+    ],
+    "chains": [
+      "axelar",
+      "acrechain",
+      "agoric",
+      "arbitrum",
+      "assetmantle",
+      "avalanche",
+      "binance",
+      "celo",
+      "comdex",
+      "cosmoshub",
+      "crescent",
+      "ethereum",
+      "emoney",
+      "evmos",
+      "fantom",
+      "fetchhub",
+      "juno",
+      "kava",
+      "kichain",
+      "kujira",
+      "moonbeam",
+      "osmosis",
+      "polygon",
+      "regen",
+      "secretnetwork",
+      "stargaze",
+      "terra",
+      "terra2",
+      "umee"
+      "xpla"
+    ]
+  },
+  {
+    "name": "mintscan",
+    "pretty_name": "Mintscan",
+    "status": "live",
+    "short_description": "Interchain Explorer powered by Cosmostation",
+    "website": "https://www.mintscan.io",
+    "socials": {
+      "twitter": "@mintscanio",
+    },
+    "categories": [
+      "Analytics",
+      "Explorers"
+    ],
+    "tags": [
+      "cosmostation",
+    ],
+    "chains": [
+      "cosmoshub",
+      "osmosis",
+      "akash",
+      "assetmantle",
+      "axelar",
+      "band",
+      "binancesmartchain",
+      "bitcanna",
+      "bitsong",
+      "cerberus",
+      "chihuahua",
+      "comdex",
+      "crescent",
+      "cryptoorgchain",
+      "cudos",
+      "desmos",
+      "emoney",
+      "evmos",
+      "fetchhub",
+      "gravitybridge",
+      "injective",
+      "irisnet",
+      "impacthub",
+      "juno",
+      "kava",
+      "kichain",
+      "konstellation",
+      "likecoin",
+      "lumnetwork",
+      "mars",
+      "panacea",
+      "nyx",
+      "omniflixhub",
+      "onomy",
+      "passage",
+      "persistence",
+      "provenance",
+      "quicksilver",
+      "regen",
+      "rizon",
+      "secretnetwork",
+      "sentinel",
+      "shentu",
+      "sifchain",
+      "sommelier",
+      "stafihub",
+      "stargaze",
+      "starname",
+      "stride",
+      "teritori",
+      "umee",
+      "xpla"
+    ]
+  },
+  {
+    "name": "keplr",
+    "pretty_name": "Keplr Wallet",
+    "status": "live",
+    "short_description": "Wallet for the Interchain",
+    "website": "https://www.keplr.app/",
+    "socials": {
+      "twitter": "@keplrwallet",
+    },
+    "categories": [
+      "Wallets"
+    ],
+    "tags": [
+      "staking"
+    ],
+    "chains": [
+      "cosmoshub",
+      "osmosis",
+      "agoric",
+      "akash",
+      "axelar",
+      "bostrom",
+      "cryptoorgchain",
+      "emoney",
+      "evmos",
+      "gravitybridge",
+      "injective",
+      "irisnet",
+      "impacthub",
+      "juno",
+      "kava",
+      "mars",
+      "persistence",
+      "quicksilver",
+      "regen",
+      "secretnetwork",
+      "sentinel",
+      "shentu",
+      "sifchain",
+      "sommelier",
+      "stargaze",
+      "starname",
+      "stride",
+      "terra2"
+    ]
+  }
+]
