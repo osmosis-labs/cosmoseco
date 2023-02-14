@@ -1,0 +1,117 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/cosmos-menu.schema.json",
+  "title": "Cosmos Menu JSON Schema",
+  "description": "A schema for the Cosmos Menu projects.json file",
+  "type": "object",
+  "properties": {
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+$"
+          },
+          "pretty_name": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "live",
+              "upcoming",
+              "killed"
+            ]
+          },
+          "description": {
+            "type": "string"
+          },
+          "git_repo": {
+            "type": "string"
+          },
+          "logo_URIs": {
+            "type": "object",
+            "properties": {
+              "png": {
+                "type": "string",
+                "format": "uri"
+              },
+              "svg": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "minProperties": 1
+          },
+          "website": {
+            "type": "string",
+            "format": "uri"
+          },
+          "socials": {
+            "type": "object",
+            "properties": {
+              "twitter": {
+               "type": "string" 
+              }
+            },
+            "additionalProperties": true
+          },
+          "categories": {
+            "type": "string",
+            "enum": [
+              "Appchain",
+              "dApp",
+              "DeFi",
+              "NFTs",
+              "Gaming",
+              "Social",
+              "Liquid Staking",
+              "General VM",
+              "Bridge",
+              "Wallet",
+              "Analytics",
+              "Explorers",
+              "Dev Tools"
+            ]
+          },
+          "token_info": {
+            "type": "object",
+            "properties": {
+              "coingecko": {
+                "type": "string"
+              }
+            },
+            "minProperties": 1
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "chains": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "name",
+          "pretty_name",
+          "status",
+          "description",
+          "logo_URIs",
+          "website",
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "projects"
+  ],
+  "additionalProperties": false
+}
