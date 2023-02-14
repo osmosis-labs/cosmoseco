@@ -59,22 +59,26 @@
             "additionalProperties": true
           },
           "categories": {
-            "type": "string",
-            "enum": [
-              "Appchain",
-              "dApp",
-              "DeFi",
-              "NFTs",
-              "Gaming",
-              "Social",
-              "Liquid Staking",
-              "General VM",
-              "Bridge",
-              "Wallet",
-              "Analytics",
-              "Explorers",
-              "Dev Tools"
-            ]
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "Appchain",
+                "dApp",
+                "DeFi",
+                "NFTs",
+                "Gaming",
+                "Social",
+                "Liquid Staking",
+                "General VM",
+                "Bridge",
+                "Wallet",
+                "Analytics",
+                "Explorers",
+                "Dev Tools"
+              ]
+            },
+            "minItems": 1
           },
           "token_info": {
             "type": "object",
