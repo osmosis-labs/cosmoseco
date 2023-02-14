@@ -19,7 +19,7 @@
       "DeFi"
     ],
     "token_info": {
-      "coingecko": "osmosis"
+      "coingecko": "osmosis",
       "osmosis": "https://www.coingecko.com/en/coins/osmosis"
     },
     "tags": [
@@ -78,7 +78,7 @@
       "Bridge"
     ],
     "token_info": {
-      "coingecko": "axelar"
+      "coingecko": "axelar",
       "osmosis": "https://www.coingecko.com/en/coins/axelar"
     },
     "tags": [
