@@ -11,7 +11,7 @@
     },
     "website": "http://app.osmosis.zone",
     "socials": {
-      "twitter": "@osmosiszone",
+      "twitter": "@osmosiszone"
     },
     "categories": [
       "Appchain",
@@ -20,7 +20,7 @@
     ],
     "token_info": {
       "coingecko": "osmosis"
-      "osmosis": "https://www.coingecko.com/en/coins/osmosis",
+      "osmosis": "https://www.coingecko.com/en/coins/osmosis"
     },
     "tags": [
       "dex",
@@ -42,18 +42,17 @@
     },
     "website": "https://ion.wtf",
     "socials": {
-      "twitter": "@_IONDAO",
+      "twitter": "@_IONDAO"
     },
     "categories": [
       "dApp",
       "DeFi"
     ],
     "token_info": {
-      "coingecko": "ion"
-      "osmosis": "https://www.coingecko.com/en/coins/ion",
+      "coingecko": "ion",
+      "osmosis": "https://www.coingecko.com/en/coins/ion"
     },
     "tags": [
-      "wtf",
       "synthetics"
     ],
     "chains": [
@@ -72,7 +71,7 @@
     },
     "website": "https://axelar.network/",
     "socials": {
-      "twitter": "@axelarcore",
+      "twitter": "@axelarcore"
     },
     "categories": [
       "Appchain",
@@ -80,11 +79,11 @@
     ],
     "token_info": {
       "coingecko": "axelar"
-      "osmosis": "https://www.coingecko.com/en/coins/axelar",
+      "osmosis": "https://www.coingecko.com/en/coins/axelar"
     },
     "tags": [
       "core",
-      "satellite",
+      "satellite"
     ],
     "chains": [
       "axelar",
@@ -115,7 +114,7 @@
       "stargaze",
       "terra",
       "terra2",
-      "umee"
+      "umee",
       "xpla"
     ]
   }
