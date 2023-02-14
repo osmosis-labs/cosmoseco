@@ -104,7 +104,7 @@
           "status",
           "description",
           "logo_URIs",
-          "website",
+          "website"
         ],
         "additionalProperties": false
       }
