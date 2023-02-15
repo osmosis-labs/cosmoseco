@@ -1,0 +1,123 @@
+{
+  "projects": [
+    {
+      "name": "osmosis",
+      "pretty_name": "Osmosis DEX",
+      "status": "live",
+      "description": "The largest DEX in the Cosmos Ecosystem",
+      "git_repo": "https://github.com/osmosis-labs/osmosis",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+      },
+      "website": "http://app.osmosis.zone",
+      "socials": {
+        "twitter": "@osmosiszone"
+      },
+      "categories": [
+        "Appchain",
+        "dApp",
+        "DeFi"
+      ],
+      "token_info": {
+        "coingecko": "osmosis",
+        "osmosis": "https://www.coingecko.com/en/coins/osmosis"
+      },
+      "tags": [
+        "dex",
+        "zone"
+      ],
+      "chains": [
+        "osmosis"
+      ]
+    },
+    {
+      "name": "ion",
+      "pretty_name": "ION DAO",
+      "status": "live",
+      "description": "The largest DEX in the Cosmos Ecosystem",
+      "git_repo": "https://github.com/many-things/ion-dao-contracts",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
+      },
+      "website": "https://ion.wtf",
+      "socials": {
+        "twitter": "@_IONDAO"
+      },
+      "categories": [
+        "dApp",
+        "DeFi"
+      ],
+      "token_info": {
+        "coingecko": "ion",
+        "osmosis": "https://www.coingecko.com/en/coins/ion"
+      },
+      "tags": [
+        "synthetics"
+      ],
+      "chains": [
+        "osmosis"
+      ]
+    },
+    {
+      "name": "axelar",
+      "pretty_name": "Axelar Bridge",
+      "status": "live",
+      "description": "Axelar delivers secure cross-chain communication for Web3",
+      "git_repo": "https://github.com/axelarnetwork/axelar-core",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg"
+      },
+      "website": "https://axelar.network/",
+      "socials": {
+        "twitter": "@axelarcore"
+      },
+      "categories": [
+        "Appchain",
+        "Bridge"
+      ],
+      "token_info": {
+        "coingecko": "axelar",
+        "osmosis": "https://www.coingecko.com/en/coins/axelar"
+      },
+      "tags": [
+        "core",
+        "satellite"
+      ],
+      "chains": [
+        "axelar",
+        "acrechain",
+        "agoric",
+        "arbitrum",
+        "assetmantle",
+        "avalanche",
+        "binance",
+        "celo",
+        "comdex",
+        "cosmoshub",
+        "crescent",
+        "ethereum",
+        "emoney",
+        "evmos",
+        "fantom",
+        "fetchhub",
+        "juno",
+        "kava",
+        "kichain",
+        "kujira",
+        "moonbeam",
+        "osmosis",
+        "polygon",
+        "regen",
+        "secretnetwork",
+        "stargaze",
+        "terra",
+        "terra2",
+        "umee",
+        "xpla"
+      ]
+    }
+  ]
+}
