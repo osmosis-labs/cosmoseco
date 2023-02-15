@@ -9,20 +9,20 @@ The official [Cosmos Menu](https://cosmos-menu-15cf62f9744e4a7cce5bcfb140.webflo
 We encourage any project, live or soon upcoming, to register their project to the Menu so others can learn more about the ecosystem and about your project. Basic metadata, like a name, description, website, social following and/or contact data, and appropriate keywords should suffice for registration. See the project schema and example below for guidance on registration.
 
 Key Categories:
- - dApp: Any Decentralized Application
- - DeFi
- - NFTs
- - DWeb
- - Gaming
- - Social
- - Liquid Staking
- - General VM
- - Appchain: Any application-specific chain
- - Wallet: Wallet apps and browser extensions.
- - Analytics: Analytics Displays.
- - Explorers: Interfaces allowing users to search for any transaction, block, or address of an appchain.
- - Bridge: Applications that interconnect blockchains by allowing users to send tokens form one chain to another.
- - Dev Tools: APIs and other tools for developers.
+- dApp: Decentralized application that operates on a blockchain. Examples: Gravity DEX, Band Protocol.
+- DeFi: Decentralized finance that enables permissionless access to financial services. Examples: Osmosis DEX, Kava Lend.
+- NFTs: Non-fungible tokens are unique digital assets represented on a blockchain. Examples: Stargaze, Uptick.
+- DWeb: Decentralized web platforms provide censorship-resistant, peer-to-peer services. Examples: Akash Network, Sentinel.
+- Gaming: Projects that utilize blockchain technology for gaming purposes. Examples: Axie Infinity, Decentraland.
+- Social: Social networks that use blockchain technology for privacy, security and other features. Examples: Likecoin, Desmos.
+- Bridge: A technology that allows two different blockchains to communicate with each other. Examples: Axelar, Gravity Bridge, Wormhole.
+- Liquid Staking: Staking tokens that can be used as collateral in lending and other financial services. Examples: Lido, Stride, Quicksilver.
+- General VM: General purpose virtual machines that run smart contracts. Examples: Evmos, Ethereum.
+- Appchain: An application-specific blockchain. Examples: Secret Network, Osmosis, Stargaze.
+- Wallet: A cryptocurrency wallet that provides storage and transaction capabilities for different assets. Examples: Keplr, Leap, Ledger.
+- Analytics: Blockchain analytics platform that provides insights into transactions, addresses, and networks. Examples: Dexmos, Map of Zones, Flipside Crypto.
+- Explorers: Block explorers that provide a user interface to view and search transactions and blocks on a blockchain. Examples: Mintscan, Big Dipper.
+- Dev Tools: Development tools, frameworks and libraries for building on Cosmos. Examples: Cosmology, Tendermint.
 
 ### Example Registration
 
