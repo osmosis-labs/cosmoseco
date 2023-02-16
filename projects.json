@@ -1,8 +1,7 @@
 {
   "projects": [
     {
-      "name": "osmosis",
-      "pretty_name": "Osmosis DEX",
+      "name": "Osmosis DEX",
       "status": "live",
       "description": "The largest DEX in the Cosmos Ecosystem",
       "git_repo": "https://github.com/osmosis-labs/osmosis",
@@ -32,8 +31,7 @@
       ]
     },
     {
-      "name": "ion",
-      "pretty_name": "ION DAO",
+      "name": "ION DAO",
       "status": "live",
       "description": "The largest DEX in the Cosmos Ecosystem",
       "git_repo": "https://github.com/many-things/ion-dao-contracts",
@@ -61,8 +59,7 @@
       ]
     },
     {
-      "name": "axelar",
-      "pretty_name": "Axelar Bridge",
+      "name": "Axelar Bridge",
       "status": "live",
       "description": "Axelar delivers secure cross-chain communication for Web3",
       "git_repo": "https://github.com/axelarnetwork/axelar-core",
@@ -120,8 +117,7 @@
       ]
     },
     {
-      "name": "mars",
-      "pretty_name": "Mars Protocol",
+      "name": "Mars Protocol",
       "status": "live",
       "description": "Mars Protocol is a DeFi platform for lending, borrowing and trading digital assets, built on the Cosmos SDK.",
       "git_repo": "https://github.com/marsprotocol",
