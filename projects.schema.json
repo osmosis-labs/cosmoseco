@@ -101,7 +101,6 @@
         },
         "required": [
           "name",
-          "pretty_name",
           "status",
           "description",
           "logo_URIs",
