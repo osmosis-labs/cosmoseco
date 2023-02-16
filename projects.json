@@ -20,8 +20,9 @@
         "DeFi"
       ],
       "token_info": {
-        "coingecko": "osmosis",
-        "osmosis": "https://www.coingecko.com/en/coins/osmosis"
+        "coingecko": "https://www.coingecko.com/en/coins/osmosis",
+        "osmosis": "https://info.osmosis.zone/token/OSMO",
+        "mintscan": "https://www.mintscan.io/osmosis/assets/dW9zbW8=?type=staking"
       },
       "tags": [
         "dex",
@@ -50,8 +51,9 @@
         "DeFi"
       ],
       "token_info": {
-        "coingecko": "ion",
-        "osmosis": "https://www.coingecko.com/en/coins/ion"
+        "coingecko": "https://www.coingecko.com/en/coins/ion",
+        "osmosis": "https://info.osmosis.zone/token/ION",
+        "mintscan": "https://www.mintscan.io/osmosis/assets/dWlvbg==?type=native"
       },
       "tags": [
         "synthetics"
@@ -79,8 +81,8 @@
         "Bridge"
       ],
       "token_info": {
-        "coingecko": "axelar",
-        "osmosis": "https://www.coingecko.com/en/coins/axelar"
+        "coingecko": "https://www.coingecko.com/en/coins/axelar",
+        "osmosis": "https://info.osmosis.zone/token/AXL"
       },
       "tags": [
         "core",
