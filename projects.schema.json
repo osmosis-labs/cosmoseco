@@ -12,10 +12,7 @@
         "properties": {
           "name": {
             "type": "string",
-            "pattern": "^[a-z0-9]+$"
-          },
-          "pretty_name": {
-            "type": "string"
+            "pattern": "^[a-zA-Z0-9\s.,-]+$"
           },
           "status": {
             "type": "string",
