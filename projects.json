@@ -204,6 +204,38 @@
       "chains": [
         "bandchain"
       ]
+    },
+    {
+      "name": "BitCanna",
+      "status": "live",
+      "description": "BitCanna is an initiative by a group of cannabis companies that aim to provide a decentralized payment network for the cannabis industry.",
+      "git_repo": "https://github.com/bitcanna-global/bitcanna",
+      "logo_uris": {
+        "png": "https://raw.githubusercontent.com/bitcanna-global/bitcanna/main/docs/img/logo.png",
+        "svg": "https://raw.githubusercontent.com/bitcanna-global/bitcanna/main/docs/img/logo.svg"
+      },
+      "website": "https://www.bitcanna.io/",
+      "socials": {
+        "twitter": "@BitCannaGlobal"
+      },
+      "categories": [
+        "dApp",
+        "DeFi"
+      ],
+      "token_info": {
+        "coingecko": "https://www.coingecko.com/en/coins/bitcanna",
+        "cmc": "https://coinmarketcap.com/currencies/bitcanna/",
+        "osmosis": "https://info.osmosis.zone/token/BCNA",
+        "mintscan": "https://www.mintscan.io/bitcanna/assets"
+      },
+      "tags": [
+        "cannabis",
+        "payment",
+        "blockchain"
+      ],
+      "chains": [
+        "BitCanna"
+      ]
     }
   ]
 }
