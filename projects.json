@@ -210,7 +210,7 @@
       "status": "live",
       "description": "BitCanna is an initiative by a group of cannabis companies that aim to provide a decentralized payment network for the cannabis industry.",
       "git_repo": "https://github.com/bitcanna-global/bitcanna",
-      "logo_uris": {
+      "logo_URIs": {
         "png": "https://raw.githubusercontent.com/bitcanna-global/bitcanna/main/docs/img/logo.png",
         "svg": "https://raw.githubusercontent.com/bitcanna-global/bitcanna/main/docs/img/logo.svg"
       },
