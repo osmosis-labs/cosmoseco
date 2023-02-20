@@ -20,8 +20,7 @@
       ],
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/osmosis",
-        "osmosis": "https://info.osmosis.zone/token/OSMO",
-        "mintscan": "https://www.mintscan.io/osmosis/assets/dW9zbW8=?type=staking"
+        "osmosis": "https://info.osmosis.zone/token/OSMO"
       },
       "tags": [
         "dex",
@@ -50,8 +49,7 @@
       ],
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/ion",
-        "osmosis": "https://info.osmosis.zone/token/ION",
-        "mintscan": "https://www.mintscan.io/osmosis/assets/dWlvbg==?type=native"
+        "osmosis": "https://info.osmosis.zone/token/ION"
       },
       "tags": [
         "synthetics"
@@ -166,8 +164,7 @@
       ],
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/stargaze",
-        "osmosis": "https://info.osmosis.zone/token/STARS",
-        "mintscan": "https://www.mintscan.io/stargaze/assets/dXN0YXJz?type=staking"
+        "osmosis": "https://info.osmosis.zone/token/STARS"
       },
       "tags": [
         "marketplace"
