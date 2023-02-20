@@ -225,8 +225,7 @@
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/bitcanna",
         "cmc": "https://coinmarketcap.com/currencies/bitcanna/",
-        "osmosis": "https://info.osmosis.zone/token/BCNA",
-        "mintscan": "https://www.mintscan.io/bitcanna/assets"
+        "osmosis": "https://info.osmosis.zone/token/BCNA"
       },
       "tags": [
         "cannabis",
