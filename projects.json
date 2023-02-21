@@ -187,8 +187,8 @@
         "twitter": "@BandProtocol"
       },
       "categories": [
-        "Appchain",
-        "Analytics"
+        "Chain",
+        "Oracle"
       ],
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/band-protocol",
