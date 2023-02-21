@@ -60,18 +60,20 @@
             "items": {
               "type": "string",
               "enum": [
-                "Appchain",
+                "Chain",
                 "dApp",
                 "DeFi",
                 "NFTs",
                 "Gaming",
                 "Social",
                 "Liquid Staking",
+                "EVM",
                 "General VM",
+                "Oracle",
                 "Bridge",
                 "Wallet",
                 "Analytics",
-                "Explorers",
+                "Explorer",
                 "Dev Tools"
               ]
             },
