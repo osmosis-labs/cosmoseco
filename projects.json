@@ -14,7 +14,7 @@
         "twitter": "@osmosiszone"
       },
       "categories": [
-        "Appchain",
+        "Chain",
         "dApp",
         "DeFi"
       ],
@@ -72,7 +72,7 @@
         "twitter": "@axelarcore"
       },
       "categories": [
-        "Appchain",
+        "Chain",
         "Bridge"
       ],
       "token_info": {
@@ -130,7 +130,7 @@
         "twitter": "@MarsProtocol"
       },
       "categories": [
-        "Appchain",
+        "Chain",
         "DeFi"
       ],
       "token_info": {
@@ -159,7 +159,7 @@
         "twitter": "@StargazeZone"
       },
       "categories": [
-        "Appchain",
+        "Chain",
         "NFTs"
       ],
       "token_info": {
@@ -187,8 +187,8 @@
         "twitter": "@BandProtocol"
       },
       "categories": [
-        "Appchain",
-        "Analytics"
+        "Chain",
+        "Oracle"
       ],
       "token_info": {
         "coingecko": "https://www.coingecko.com/en/coins/band-protocol",
@@ -216,6 +216,7 @@
         "twitter": "@BitCannaGlobal"
       },
       "categories": [
+        "Chain",
         "dApp",
         "DeFi"
       ],
@@ -226,11 +227,10 @@
       },
       "tags": [
         "cannabis",
-        "payment",
-        "blockchain"
+        "payment"
       ],
       "chains": [
-        "BitCanna"
+        "bitcanna"
       ]
     }
   ]
