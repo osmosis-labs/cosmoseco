@@ -44,11 +44,13 @@ Key Categories:
       "DeFi"
     ],
     "token_info": {
-      "coingecko": "https://www.coingecko.com/en/coins/osmosis"
-      "osmosis": "https://info.osmosis.zone/token/OSMO",
+      "coingecko": "https://www.coingecko.com/en/coins/osmosis",
+      "cmc": "https://coinmarketcap.com/currencies/osmosis/",
+      "osmosis": "https://info.osmosis.zone/token/OSMO"
     },
     "tags": [
-      "dex"
+      "dex",
+      "zone"
     ],
     "chains": [
       "osmosis"
