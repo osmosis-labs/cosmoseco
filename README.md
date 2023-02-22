@@ -8,6 +8,8 @@ The official [Cosmos Menu](https://cosmos-menu-15cf62f9744e4a7cce5bcfb140.webflo
 
 We encourage any project, live or soon upcoming, to register their project to the Menu so others can learn more about the ecosystem and about your project. Basic metadata, like a name, description, website, social following and/or contact data, and appropriate keywords should suffice for registration. See the project schema and example below for guidance on registration.
 
+### Properties
+
 Categories:
 - Chain: A blockchain: a decentralized, immutable ledger for secure transactions. Examples: Secret Network, Osmosis, Cosmos Hub.
 - dApp: Decentralized application that operates on a blockchain. Examples: Gravity DEX, Injective.
@@ -26,7 +28,7 @@ Categories:
 - Explorers: Block explorers that provide a user interface to view and search transactions and blocks on a blockchain. Examples: Mintscan, Big Dipper.
 - Dev Tools: Development tools, frameworks and libraries for building on Cosmos. Examples: Cosmos Kit, Telescope, Tendermint.
 
-Chains: The chains property is used for listing the chains interacting directly with the project. Each list item must be written exactly as its chain_name property as seen in the Cosmos Chain Registry.
+Chains: The `chains` property is used for listing the chains interacting directly with the project. Each list item must be written exactly as its chain_name property as seen in the Cosmos Chain Registry. E.g., 'cosmoshub' is the correct chain_name property value to refer to the Cosmos Hub, while 'Cosmos Hub' or 'Cosmos' shall not be specified here.
 
 ### Example Registration
 
