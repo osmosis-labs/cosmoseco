@@ -232,6 +232,35 @@
       "chains": [
         "bitcanna"
       ]
+    },
+    {
+      "name": "Akash Network",
+      "status": "live",
+      "description": "Decentralized cloud computing marketplace and deployment platform.",
+      "git_repo": "https://github.com/ovrclk/akash",
+      "logo_URIs": {
+        "png": "https://akash.network/img/akash-logo.png",
+        "svg": "https://akash.network/img/akash-logo.svg"
+      },
+      "website": "https://akash.network/",
+      "socials": {
+        "twitter": "@akashnet_"
+      },
+      "categories": [
+        "DWeb",
+        "dApp"
+      ],
+      "token_info": {
+        "coingecko": "https://www.coingecko.com/en/coins/akash-network",
+        "cmc": "https://coinmarketcap.com/currencies/akash-network/",
+        "osmosis": "https://info.osmosis.zone/token/AKT"
+      },
+      "tags": [
+        "cloud computing"
+      ],
+      "chains": [
+        "akash"
+      ]
     }
   ]
 }
