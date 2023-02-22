@@ -96,10 +96,13 @@
             }
           },
           "chains": {
+            "description": "Refers to the chain_name property for a chain that is registred to the Cosmos Chain Registry.",
             "type": "array",
             "items": {
-              "type": "string"
-            }
+              "type": "string",
+              "pattern": "^[a-z0-9]+$"
+            },
+            "minItems": 1
           }
         },
         "required": [
