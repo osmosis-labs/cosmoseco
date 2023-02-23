@@ -268,8 +268,8 @@
       "description": "Comdex is a decentralized derivatives exchange built on the Cosmos SDK.",
       "git_repo": "https://github.com/comdex-official/comdex",
       "logo_URIs": {
-        "png": "https://comdex.one/assets/images/logo-comdex.png",
-        "svg": "https://comdex.one/assets/images/logo-comdex.svg"
+        "png": "https://github.com/cosmos/chain-registry/blob/master/comdex/images/cmdx.png",
+        "svg": "https://github.com/cosmos/chain-registry/blob/master/comdex/images/cmdx.svg"
       },
       "website": "https://comdex.one/",
       "socials": {
