@@ -14,10 +14,10 @@ Categories:
 - Chain: A blockchain: a decentralized, immutable ledger for secure transactions. Examples: Secret Network, Osmosis, Cosmos Hub.
 - dApp: Decentralized application that operates on a blockchain. Examples: Gravity DEX, Injective.
 - DeFi: Decentralized finance that enables permissionless access to financial services. Examples: Osmosis DEX, Kava Lend.
-- NFTs: Non-fungible tokens are unique digital assets represented on a blockchain. Examples: Stargaze, Uptick.
+- NFTs: Non-fungible tokens are unique digital assets represented on a blockchain. Examples: Stargaze, Uptick, OpenSea.
 - DWeb: Decentralized web platforms provide censorship-resistant, peer-to-peer services. Examples: Akash Network, Sentinel.
 - Gaming: Projects that utilize blockchain technology for gaming purposes. Examples: Axie Infinity, Decentraland.
-- Social: Social networks that use blockchain technology for privacy, security and other features. Examples: Likecoin, Desmos.
+- Social: Social networks that use blockchain technology for privacy, security and other features. Examples: ICNS, Likecoin, Desmos.
 - Liquid Staking: Staking tokens that can be used as collateral in lending and other financial services. Examples: Lido, Stride, Quicksilver.
 - EVM: An Ethereum-compatible Virtual Machine for smart contracts. Examples: Evmos, Ethermint.
 - General VM: General purpose virtual machines that run smart contracts. Examples: Juno, Terra 2.0.
@@ -27,6 +27,8 @@ Categories:
 - Analytics: Blockchain analytics platform that provides insights into transactions, addresses, and networks. Examples: Dexmos, Map of Zones, Flipside Crypto.
 - Explorers: Block explorers that provide a user interface to view and search transactions and blocks on a blockchain. Examples: Mintscan, Big Dipper.
 - Dev Tools: Development tools, frameworks and libraries for building on Cosmos. Examples: Cosmos Kit, Telescope, Tendermint.
+- Meme: projects centered around crypto assets with humorous or cultural significance. Examples: Dogecoin, Chihuahua, MEME.
+- Stablecoin: cryptocurrencies pegged to an asset, often to the U.S. Dollar. Examples: Terra USD (UST), Circle USD (USDC), Mirror TSLA (mTSLA).
 
 Chains: The `chains` property is used for listing the chains interacting directly with the project. Each list item must be written exactly as its chain_name property as seen in the Cosmos Chain Registry. E.g., 'cosmoshub' is the correct chain_name property value to refer to the Cosmos Hub, while 'Cosmos Hub' or 'Cosmos' shall not be specified here.
 
