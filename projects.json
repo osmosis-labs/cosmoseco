@@ -263,6 +263,35 @@
       ]
     },
     {
+      "name": "Stride",
+      "status": "live",
+      "description": "Stride is a decentralized finance platform that creates synthetic Liquid Staking tokens.",
+      "git_repo": "https://github.com/stride-zone",
+      "logo_URIs": {
+        "png": "https://github.com/cosmos/chain-registry/blob/master/stride/images/strd.png",
+        "svg": "https://github.com/cosmos/chain-registry/blob/master/stride/images/strd.svg"
+      },
+      "website": "https://stride.zone",
+      "socials": {
+        "twitter": "@stridezone",
+        "telegram": "",
+        "discord": ""
+      },
+      "categories": [
+        "Liquid Staking"
+      ],
+      "token_info": {
+        "coingecko": "https://www.coingecko.com/en/coins/stride",
+        "cmc": "https://coinmarketcap.com/currencies/stride/",
+        "osmosis": "https://info.osmosis.zone/token/STRD"
+      },
+      "tags": [
+      ],
+      "chains": [
+        "stride"
+      ]
+    }.
+    {
       "name": "Comdex",
       "status": "live",
       "description": "Comdex is a decentralized derivatives exchange built on the Cosmos SDK.",
