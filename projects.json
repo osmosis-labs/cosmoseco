@@ -290,6 +290,37 @@
       "chains": [
         "stride"
       ]
+    },
+    {
+      "name": "Comdex",
+      "status": "live",
+      "description": "Comdex is a decentralized derivatives exchange built on the Cosmos SDK.",
+      "git_repo": "https://github.com/comdex-official/comdex",
+      "logo_URIs": {
+        "png": "https://github.com/cosmos/chain-registry/blob/master/comdex/images/cmdx.png",
+        "svg": "https://github.com/cosmos/chain-registry/blob/master/comdex/images/cmdx.svg"
+      },
+      "website": "https://comdex.one/",
+      "socials": {
+        "twitter": "@Comdex_Official"
+      },
+      "categories": [
+        "Chain",
+        "dApp",
+        "DeFi"
+      ],
+      "token_info": {
+        "coingecko": "https://www.coingecko.com/en/coins/comdex",
+        "cmc": "https://coinmarketcap.com/currencies/comdex/",
+        "osmosis": "https://info.osmosis.zone/token/CMDX"
+      },
+      "tags": [
+        "derivatives",
+        "exchange"
+      ],
+      "chains": [
+        "comdex"
+      ]
     }
   ]
 }
