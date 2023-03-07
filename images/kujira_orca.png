@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ORCA by Kujira</title>
+    <link rel="icon" href="data:image/png;base64,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" />
+    <meta name="description"
+        content="A zero-risk bid-and-forget liquidation platform. Buy liquidated loan collateral at below market value." />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ORCA by Kujira" />
+    <meta property="og:description"
+        content="A zero-risk bid-and-forget liquidation platform. Buy liquidated loan collateral at below market value." />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="https://assets.kujira.app/banner.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="ORCA by Kujira" />
+    <meta name="twitter:description"
+        content="A zero-risk bid-and-forget liquidation platform. Buy liquidated loan collateral at below market value." />
+    <meta name="twitter:image" content="https://assets.kujira.app/banner-800x800.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Barlow+Semi+Condensed:wght@300;400;500&family=Merriweather:ital,wght@1,300&display=swap"
+        rel="stylesheet">
+
+
+  <script type="module" crossorigin src="/assets/index.7fb80a70.js"></script>
+  <link rel="stylesheet" href="/assets/index.9c8ab92f.css">
+</head>
+
+<body>
+    <div id="root"></div>
+    <div id="modal"></div>
+    
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7a45ca94cdd7c3a0","version":"2023.2.0","r":1,"token":"db69c6e9950c4d03bac54d32d929c632","si":100}' crossorigin="anonymous"></script>
+</body>
+
+</html>

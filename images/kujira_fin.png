@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1" />
+    <title>FIN by Kujira</title>
+    <link rel="icon" href="data:image/png;base64,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" />
+    <meta name="description" content="" />
+
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FIN by Kujira" />
+    <meta
+      property="og:description"
+      content="Cosmos' first decentralised, permissionless, 100% on-chain order book style token exchange." />
+    <meta property="og:url" content="" />
+    <meta
+      property="og:image"
+      content="https://assets.kujira.app/kujira-fin.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="FIN by Kujira" />
+    <meta
+      name="twitter:description"
+      content="Cosmos' first decentralised, permissionless, 100% on-chain order book style token exchange." />
+    <meta
+      name="twitter:image"
+      content="https://assets.kujira.app/kujira-fin-square.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Barlow+Semi+Condensed:wght@300;400;500&display=swap"
+      rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index.b94aca84.js"></script>
+    <link rel="stylesheet" href="/assets/index.c24d0441.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <div id="modal"></div>
+    
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7a45ca9458f3f8d9","version":"2023.2.0","r":1,"token":"db69c6e9950c4d03bac54d32d929c632","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
