@@ -290,6 +290,30 @@
       "chains": [
         "stride"
       ]
+    },
+    {
+      "name": "Cosmodash",
+      "status": "live",
+      "description": "A stats aggregator dashboard. Currently tracking Osmosis LPs and 95+ chains in the cosmos ecosystem.",
+
+      "logo_URIs": {
+        "png": "https://www.cosmodash.zone/favicon.png",
+        "svg": "https://www.cosmodash.zone/favicon.svg"
+      },
+      "website": "https://www.cosmodash.zone/",
+      "socials": {
+        "twitter": "@evianetwork",
+        "telegram": "@eviacommunity",
+        "discord" : "https://discord.gg/SRDJHEhHST"
+      },
+      "categories": [
+        "Analytics",
+        "Explorer",
+        "DeFi"
+      ],
+      "tags": [
+        "Analytics"
+      ]
     }
   ]
 }
