@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Staking for The Cosmos, by Kujira</title>
+    <link rel="icon" href="/assets/favicon.03c59656.png" />
+    <meta name="description" content="Simply connect to your favorite Cosmos chain & rebalance your stake to make it a safer & more decentralized home" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Barlow+Semi+Condensed:wght@300;400;500&family=Inconsolata&display=swap"
+        rel="stylesheet">
+
+  <script type="module" crossorigin src="/assets/index.dd91a269.js"></script>
+  <link rel="stylesheet" href="/assets/index.59839a5b.css">
+</head>
+
+<body>
+    <div id="root"></div>
+    <div id="modal"></div>
+    
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7a45ca94cd22ebcf","version":"2023.2.0","r":1,"token":"db69c6e9950c4d03bac54d32d929c632","si":100}' crossorigin="anonymous"></script>
+</body>
+
+</html>
