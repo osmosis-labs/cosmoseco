@@ -1,0 +1,53 @@
+on: [workflow_dispatch]
+name: Get AirTable Data
+jobs:
+  get_air_table_data:
+    name: Get AirTable Data
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 19.6.0
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run code to get AirTable Data
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: node .github/workflows/utility/get_air_table_data_cosmos-eco.mjs
+
+      - name: Add Commit Push
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          add_timestamp: false
+          commit_prefix: "[AUTO]"
+          commit_message: "projects.json Update"
+          force: false
+          target_branch: update/projects
+
+      - name: Create A PR
+        uses: devops-infra/action-pull-request@v0.4.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_branch: update/projects
+          target_branch: main
+          title: projects.json Update
+          body: "**Automated pull request**"
+          old_string: "**THIS IS AN AUTOMATED UPDATE OF projects.json**"
+          new_string: "** Automatic pull request**"
+          get_diff: true
+          ignore_users: "dependabot"

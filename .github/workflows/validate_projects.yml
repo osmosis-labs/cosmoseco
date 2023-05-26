@@ -1,5 +1,5 @@
-on: [pull_request, workflow_dispatch]
-name: PR workflow
+on: [workflow_dispatch]
+name: Validate Schema
 jobs:
   validate_chainjson:
     name: Validate edited chains.json
