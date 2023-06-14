@@ -1,0 +1,508 @@
+{
+  "rows": [
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 116680,
+          "Cover Image": 181078,
+          "Logo Image": 10294
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://ion.wtf",
+      "Telegram Link": "https://t.me/IONGovernanceWorkingGroup",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ion_dao_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/many-things/ion-dao-contracts",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Decentralized autonomous organization for community governance",
+      "Project Name": "ION DAO",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ion_dao_cover_image.webp",
+      "Token Symbol": "ION",
+      "Secondary Tokens": "IBCX",
+      "Twitter Link": "https://twitter.com/_IONDAO",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@IBCindex",
+      "Discord Link": "https://discord.gg/9gD5wDaZWU",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ion_dao_logo_image.webp",
+      "App Store": "recmIS7WhLFzeJCTt",
+      "Project Status": "Live",
+      "Cosmos Eco": "rectwstkpP6wyUNmm"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 500200,
+          "Cover Image": 585918,
+          "Logo Image": 36302
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://mars.osmosis.zone/redbank",
+      "Reddit Link": "https://reddit.marsprotocol.io/",
+      "Telegram Link": "https://t.me/martiannews",
+      "Docs Link": "https://docs.marsprotocol.io/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_red_bank_marketing_image_1.webp",
+      "GitHub Link": "https://github.marsprotocol.io",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Lend and borrow money with the Osmosis Blockchain.",
+      "Project Name": "Mars Red Bank",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_red_bank_cover_image.webp",
+      "Token Symbol": "MARS",
+      "Twitter Link": "https://twitter.marsprotocol.io",
+      "Status": "Active",
+      "Medium Link": "https://medium.marsprotocol.io/",
+      "Discord Link": "https://discord.marsprotocol.io/",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_red_bank_logo_image.webp",
+      "App Store": "recbBDxbfNXFIsI49",
+      "Project Status": "Live",
+      "Cosmos Eco": "recipdTznRoC2DTx2"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 51314,
+          "Cover Image": 61300,
+          "Logo Image": 36302
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://mars.osmosis.zone/farm",
+      "Reddit Link": "https://reddit.marsprotocol.io/",
+      "Telegram Link": "https://t.me/martiannews",
+      "Docs Link": "https://docs.marsprotocol.io/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_farm_marketing_image_1.webp",
+      "GitHub Link": "https://github.marsprotocol.io",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Farm the fields of Mars. Leveraged yield farming on top of Apollo auto compounding vaults!",
+      "Project Name": "Mars Farm",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_farm_cover_image.webp",
+      "Token Symbol": "MARS",
+      "Twitter Link": "https://twitter.marsprotocol.io",
+      "Status": "Active",
+      "Medium Link": "https://medium.marsprotocol.io",
+      "Discord Link": "https://discord.marsprotocol.io/",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/mars_farm_logo_image.webp",
+      "App Store": "recHXwTvVN3ajh0uu",
+      "Project Status": "Live",
+      "Cosmos Eco": "recOL6fT3Ru7DsbXn"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 27430,
+          "Cover Image": 21062,
+          "Logo Image": 21062
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://app.kado.money/",
+      "Blog Link": "https://www.kado.money/blog",
+      "Telegram Link": "https://t.me/joinchat/DBTEybbbFugwZjgx",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/kado_marketing_image_1.webp",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Instantly Buy & Sell Crypto. Onboard to Osmosis in less than 5 minutes.",
+      "Project Name": "Kado",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/kado_cover_image.webp",
+      "Contact Email": "support@kado.money",
+      "Twitter Link": "https://twitter.com/kado_money",
+      "Status": "Active",
+      "Medium Link": "https://kado-money.medium.com/",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/kado_logo_image.webp",
+      "App Store": "reczrR53XQ49orgBl",
+      "Project Status": "Live",
+      "Cosmos Eco": "recGfrrr5Uv6ICr4e"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 100854,
+          "Cover Image": 46684,
+          "Logo Image": 7190
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://sinfonia.zone",
+      "Reddit Link": "https://www.reddit.com/r/bitsong/",
+      "Telegram Link": "https://t.me/BitSongOfficial",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/sinfonia_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/bitsongofficial/sinfonia-ui",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Your Web3Music dApp powered by BitSong.",
+      "Project Name": "Sinfonia",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/sinfonia_cover_image.webp",
+      "Token Symbol": "BTSG",
+      "Twitter Link": "https://twitter.com/sinfoniazone",
+      "Status": "Active",
+      "Medium Link": "https://bitsongofficial.medium.com/",
+      "Discord Link": "https://discord.com/invite/mZC9Yk3",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/sinfonia_logo_image.webp",
+      "App Store": "rec73kBoP6ooqR8cr",
+      "Project Status": "Live",
+      "Cosmos Eco": "receRUXMXaPlK2jFk"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 337276,
+          "Cover Image": 13152,
+          "Logo Image": 4806
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://restake.app/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/restake_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/eco-stake/restake",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Auto-compound your staking rewards and setup your own custom Authz grants for any chain in the Cosmos ecosystem.",
+      "Project Name": "REStake",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/restake_cover_image.webp",
+      "Twitter Link": "https://twitter.com/REStakeApp",
+      "Status": "Active",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/restake_logo_image.webp",
+      "App Store": "rec9TAHqC0k8yR3Cb",
+      "Project Status": "Live",
+      "Cosmos Eco": "recgHa3OK4L5S2e54"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 22112,
+          "Cover Image": 27200,
+          "Logo Image": 4638
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://www.icns.xyz/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/icns_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/icns-xyz/icns",
+      "Osmosis Ecosystem": true,
+      "Short Description": "InterChain Name Service. Your name for the interchain.",
+      "Project Name": "ICNS",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/icns_cover_image.webp",
+      "Twitter Link": "https://twitter.com/icns_xyz",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@icns",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/icns_logo_image.webp",
+      "App Store": "recm2ogiocDElfxNZ",
+      "Project Status": "Live",
+      "Cosmos Eco": "rectQYCGwg4BFqIgS"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 57120,
+          "Cover Image": 4084,
+          "Logo Image": 4084
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://tfm.com/",
+      "Telegram Link": "https://t.me/tfmofficialchat",
+      "Docs Link": "https://docs.tfm.com/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/tfm_pro_trading_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/tfm-com",
+      "Osmosis Ecosystem": true,
+      "Short Description": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator! Transfer via IBC across all Cosmos app-chains.",
+      "Project Name": "TFM Pro Trading",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/tfm_pro_trading_cover_image.webp",
+      "Twitter Link": "https://twitter.com/tfm_com",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@tfm.com",
+      "Discord Link": "https://discord.gg/538PrcubY9",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/tfm_pro_trading_logo_image.webp",
+      "App Store": "recXQ9LGA1pbwROcD",
+      "Project Status": "Live",
+      "Cosmos Eco": "rec4EJ74I5Q8Q2ZFw"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 80820,
+          "Cover Image": 62478,
+          "Logo Image": 6992
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://calculated.fi/",
+      "Telegram Link": "https://t.me/calcprotocol",
+      "1st Builders Twitter": "https://twitter.com/_fluffydonkey",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/calculated_finance_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/calculated-finance",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Harness volatility for better returns with the smartest way to enter and exit positions.",
+      "Project Name": "Calculated Finance",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/calculated_finance_cover_image.webp",
+      "Contact Email": "team@calculated.fi",
+      "Twitter Link": "https://twitter.com/CALC_Finance",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@calculated.fi",
+      "Discord Link": "https://discord.gg/bJDj3zJhDH",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/calculated_finance_logo_image.webp",
+      "App Store": "recEGcY36CUzHuMdg",
+      "Project Status": "Live",
+      "Cosmos Eco": "recLuMkreGlw1FXG9"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 35874,
+          "Cover Image": 14986,
+          "Logo Image": 2156
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://www.yieldmos.com/",
+      "Telegram Link": "https://t.me/Yieldmos",
+      "Docs Link": "https://docs.yieldmos.com/",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/yieldmos_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/yieldmos/",
+      "Osmosis Ecosystem": true,
+      "Short Description": "Boost yields by auto compounding your staking and LP rewards with validators of your choice.",
+      "Project Name": "Yieldmos",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/yieldmos_cover_image.webp",
+      "Twitter Link": "https://twitter.com/yieldmos",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@yieldmos",
+      "Discord Link": "https://discord.gg/FPUzr9xjse",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/yieldmos_logo_image.webp",
+      "App Store": "recMo4mCl1YWtt2oy",
+      "Project Status": "Live",
+      "Cosmos Eco": "recTcEI0t5pTNEdRr"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 67146,
+          "Cover Image": 44742,
+          "Logo Image": 2955
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://index.ion.wtf/",
+      "Telegram Link": "https://t.me/IONGovernanceWorkingGroup",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ibcx_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/many-things/ibcx-contracts",
+      "Short Description": "$IBCX is a Cosmos index token designed to benchmark the leading Cosmos tokens’ performance.",
+      "Project Name": "IBCX",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ibcx_cover_image.webp",
+      "Token Symbol": "IBCX",
+      "Twitter Link": "https://twitter.com/IBCindex",
+      "Status": "Active",
+      "Medium Link": "https://medium.com/@IBCindex",
+      "Discord Link": "https://discord.gg/9gD5wDaZWU",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/ibcx_logo_image.webp",
+      "App Store": "recdk6LW36uJVwP8u",
+      "Project Status": "Live",
+      "Cosmos Eco": "reck8G7kbaVGfH0Bn"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 40306,
+          "Cover Image": 134210,
+          "Logo Image": 12202
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://safe.apollo.farm/osmosis-1/overview",
+      "Blog Link": "https://articles.apollo.farm/",
+      "Telegram Link": "https://t.me/apollodao",
+      "1st Builders Twitter": "https://twitter.com/apollodao",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/apollo_safe_marketing_image_1.webp",
+      "GitHub Link": "https://github.com/CosmWasm/cw-plus/blob/main/packages/cw3/README.md",
+      "1st Builders Name": "Apollo DAO",
+      "Short Description": "Multi-Sig Manager for Cosmos",
+      "Project Name": "Apollo Safe",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/apollo_safe_cover_image.webp",
+      "Tags": "Multisig",
+      "Twitter Link": "https://twitter.com/apollodao",
+      "Contact Name": "Bruce | Apollo DAO",
+      "Status": "Active",
+      "Discord Link": "https://discord.com/invite/j3KxMR8ZjZ",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/apollo_safe_logo_image.webp",
+      "App Store": "recnKxAr24SYd3EE1",
+      "Project Status": "Live",
+      "Cosmos Eco": "recuy7WPa8jVxeP7U"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Marketing Image 1": 45928,
+          "Cover Image": 67656,
+          "Logo Image": 3844
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://www.autonomynetwork.io/",
+      "Blog Link": "https://blog.autonomynetwork.io",
+      "YouTube Link": "https://www.youtube.com/@autonomynetwork6024",
+      "Long Description": "Autonomy Network, a decentralized automation protocol, enables Web3 developers to create sophisticated dApps and enhance native Web3 functionalities. Primarily catering to DeFi applications, it simplifies the implementation of features like limit orders and automated liquidations. By providing a suite of tools and features that work in conjunction with the automation layer, Autonomy allows developers to build the next wave of DeFi applications.",
+      "Docs Link": "https://docs.autonomynetwork.io/autonomy-docs/",
+      "1st Builders Twitter": "https://twitter.com/JamesQuantafire",
+      "Marketing Image 1 URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/autonomy_marketing_image_1.webp",
+      "2nd Builders Twitter": "https://twitter.com/itsdchui",
+      "GitHub Link": "https://github.com/Autonomy-Network",
+      "2nd Builders Name": "Diego Chui",
+      "1st Builders Name": "James Key",
+      "Short Description": "Autonomy is a decentralized automation protocol, equipping Web3 developers with advanced automation and features dedicated to DeFi.",
+      "Project Name": "Autonomy",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/autonomy_cover_image.webp",
+      "Twitter Link": "https://twitter.com/AutonomyNetwork",
+      "Status": "Active",
+      "Medium Link": "https://blog.autonomynetwork.io/",
+      "Discord Link": "https://discord.gg/hPmFRqYefc",
+      "Chains": "recprJm1a6p1F98aC",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/autonomy_logo_image.webp",
+      "App Store": "reccdy3nDc2piIgSp",
+      "Launch Date": "2023-05-30",
+      "Project Status": "Live",
+      "Categories": "recGgBDrpime1jjGD"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Cover Image": 3576,
+          "Logo Image": 2072
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://stride.zone/",
+      "Blog Link": "https://stride.zone/blog",
+      "YouTube Link": "https://www.youtube.com/@StrideCommunity",
+      "Reddit Link": "https://www.reddit.com/r/Stride_Zone",
+      "Telegram Link": "https://t.me/stride_official",
+      "Long Description": "Liquid staking for the Cosmos. OSMO, ATOM, INJ, and many other Cosmos tokens supported. Stride’s liquid staked tokens have deep liquidity on the Osmosis DEX, and are key building blocks for Osmosis dApps. Multiple audits, IBC rate limiting, interchain security, and blockchain minimalism make Stride blockchain one of the most secure chains in the Cosmos. Multiple user experience features make Stride liquid staking a breeze. Try it out today!",
+      "Docs Link": "https://docs.stride.zone/docs",
+      "3rd Builders Name": "Vishal Talasani",
+      "1st Builders Twitter": "https://twitter.com/aidan0x",
+      "2nd Builders Twitter": "https://twitter.com/interchainriley",
+      "GitHub Link": "https://github.com/Stride-Labs/stride",
+      "2nd Builders Name": "Riley Edmunds",
+      "1st Builders Name": "Aidan Salzmann",
+      "3rd Builders Twitter": "https://twitter.com/shellvish",
+      "Short Description": "Liquid staking for the Cosmos. Enables you to transfer, trade, and borrow against your tokens - without missing any staking rewards.",
+      "Project Name": "Stride",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/stride_cover_image.webp",
+      "Forum Link": "https://commonwealth.im/stride/",
+      "Contact Email": "aidan@stridelabs.co",
+      "Token Symbol": "STRD",
+      "Secondary Tokens": "stATOM, stOSMO, stSTARS, stJUNO, stLUNA, stEVMOS, stINJ, stUMEE",
+      "Tags": "Liquid Staking",
+      "Twitter Link": "https://twitter.com/stride_zone",
+      "Contact Name": "Aidan Salzmann",
+      "Status": "Draft",
+      "Medium Link": "https://medium.com/@stride_zone",
+      "Discord Link": "https://stride.zone/discord",
+      "Chains": "recG54Phrhq7mCXcK",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/stride_logo_image.webp",
+      "App Store": "recoXSRjbxhGfRliR",
+      "Launch Date": "2022-09-04",
+      "Project Status": "Live",
+      "Categories": "recGgBDrpime1jjGD"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {},
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://streamswap.io/",
+      "Blog Link": "https://mirror.xyz/streamswapprotocol.eth",
+      "Telegram Link": "https://t.me/StreamSwap_io",
+      "GitHub Link": "https://github.com/StreamSwapProtocol/cw-streamswap",
+      "Project Name": "StreamSwap",
+      "Twitter Link": "https://twitter.com/StreamSwap_io",
+      "Status": "Draft",
+      "Chains": "recprJm1a6p1F98aC",
+      "Project Status": "Live"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Cover Image": 35378,
+          "Logo Image": 3386,
+          "Website Screenshot": 62088
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://nois.network/",
+      "Blog Link": "https://scripta.network/@noislabs",
+      "Long Description": "Launched in March 28, 2023, Nois Network is a proof-of-stake blockchain that aims to bring randomness (or noise) to the Cosmos ecosystem by providing a safe and secure entropy source and distributing randomness in the form of random beacons to other Cosmos-sdk blockchains via IBC. More precisely, Nois provides public randomness, i.e. values that are unpredictable for all participants of the system but free to share once published.",
+      "Docs Link": "https://docs.nois.network/",
+      "3rd Builders Name": "Jorge",
+      "1st Builders Twitter": "https://twitter.com/simon_warta",
+      "5th Builders Name": "LeTurt",
+      "2nd Builders Twitter": "https://twitter.com/kais_kat",
+      "GitHub Link": "https://github.com/noislabs",
+      "2nd Builders Name": "Kais",
+      "1st Builders Name": "Simon",
+      "3rd Builders Twitter": "https://twitter.com/jhernandezb_",
+      "Short Description": "Brings random beacons to Cosmos blockchains without compromising security or usability by leveraging drand and IBC.",
+      "4th Builders Twitter": "https://twitter.com/nikkolasg1",
+      "Project Name": "Nois Network",
+      "5th Builders Twitter": "https://twitter.com/LeTurt_",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/nois_network_cover_image.webp",
+      "Contact Email": "Baccour.kais@gmail.com",
+      "4th Builders Name": "Nicolas",
+      "Token Symbol": "NOIS",
+      "Tags": "IBC, randomness, vrf, rng, nois",
+      "Twitter Link": "https://twitter.com/NoisRNG",
+      "Contact Name": "Kais",
+      "Status": "Draft",
+      "Discord Link": "https://chat.nois.network",
+      "Chains": "reclzbqoKhidQLc3n",
+      "Logo Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/nois_network_logo_image.webp",
+      "Launch Date": "2023-03-28",
+      "Website Screenshot URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/nois_network_website_screenshot.webp",
+      "Project Status": "Live",
+      "Categories": "recvji0WMd5z1y3dR"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {
+          "Cover Image": 51624
+        },
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Website Link": "https://www.quasar.fi/",
+      "Blog Link": "https://www.quasar.fi/blog",
+      "Telegram Link": "https://t.me/quasarfi",
+      "Docs Link": "https://docs.quasar.fi/",
+      "1st Builders Twitter": "https://twitter.com/valeyo777",
+      "GitHub Link": "https://github.com/quasar-finance/",
+      "2nd Builders Name": "AK",
+      "1st Builders Name": "Valentin",
+      "Short Description": "Instantly make your crypto productive by adding Quasar vaults to your portfolio.",
+      "Project Name": "Quasar Finance",
+      "Cover Image URL": "https://raw.githubusercontent.com/osmosis-labs/cosmoseco/main/project_cms/images/quasar_finance_cover_image.webp",
+      "Token Symbol": "QSR",
+      "Twitter Link": "https://twitter.com/quasarfi",
+      "Contact Name": "Valentin",
+      "Status": "Draft",
+      "Discord Link": "https://discord.com/invite/quasarfi",
+      "Chains": "recqmoqGmYWnORvMQ",
+      "Project Status": "Coming Soon"
+    },
+    {
+      "internal_data": {
+        "image_sizes": {},
+        "project_listing_date": "2023-06-14T20:51:24.798Z"
+      },
+      "Project Name": "Atomic Wallet",
+      "Contact Name": "A person who handled the project's submission",
+      "Status": "Draft",
+      "Project Status": "Coming Soon"
+    }
+  ]
+}
