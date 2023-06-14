@@ -130,8 +130,8 @@ function process_air_table_data() {
                     } else {
                         row.internal_data.image_sizes[key] = value[0].size;
                     }
-                    let image_title = record.fields[row_title] + ' ' + key + '.webp';
-                    let image_name = image_title.toLowerCase().replace(/\s/g, '_');
+                    let image_title = record.fields[row_title] + ' ' + key + ' ';
+                    let image_name = image_title.toLowerCase().replace(/\s/g, '_') + value[0].filename;
                     row[key + " URL"] = git_hub_image_url_start + image_name;
                     get_image(value[0].url,image_name);
                 } else {
